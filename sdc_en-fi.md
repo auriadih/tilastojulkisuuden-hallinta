@@ -1,9 +1,6 @@
 
 ## Tilastojulkisuuden hallinta (TJH) -sanasto
 
-Document author: <arho.virkki@tyks.fi>  
-Status: Public
-
 Suomennoksissa on käytetty tiedon kolmiportaisesta luokittelusta
 nimityksiä *aineisto* (data), *tietosisältö* (information) ja *tietämys*
 (knowledge) sen sijaan, että viitattaisiin vain nämä kaikki kattavaan 
