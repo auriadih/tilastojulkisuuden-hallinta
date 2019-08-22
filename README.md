@@ -80,7 +80,9 @@ vastaanottajan käytössä olevista taustatiedoista. [Hundepool 2012, pp.
 Populaatio-oletuksen tapauksessa riski yksilöinnin palauttamisesta voidaan
 määritellä todennäköisyydeksi
 
-$$ r_k := \max_{i \in J} P (s [k] = p [i]) $$
+```math
+r_k := \max_{i \in J} P (s [k] = p [i])
+```
 
 missä $k$ on yksilön tunniste otoksessa $s$ ja $J$ on koko populaation
 $p$ tunnistejoukko (ns. indeksijoukko).
