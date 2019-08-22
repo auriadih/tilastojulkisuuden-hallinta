@@ -26,7 +26,7 @@ taas lähtee ajatuksesta, että aineisto kerätään ensisijaisesti vain
 tilastointia varten ilman, että sitä koskaan käytetään toissijaisiin
 tarkoituksiin tai yhdistetään muihin aineistoihin.
 
-[**Tilastojulkisuuden englanti-suomi -sanasto**](sdc_en-fi)
+[**Tilastojulkisuuden englanti-suomi -sanasto**](sdc_en-fi.md)
 
 Katso myös: [Aalto-yliopiston tilastotieteen sanasto
 ](https://math.aalto.fi/opetus/sovtoda/sanastot/en2fi.html)
