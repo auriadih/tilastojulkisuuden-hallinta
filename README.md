@@ -1,6 +1,6 @@
-# Tilastojulkisuuden hallinta (TJH)
+# Tilastollinen tietosuoja
 
-Tilastojulkisuuden englanti-suomi -sanakirja | 
+Tilastollisen tietosuojan englanti-suomi -sanakirja | 
 Statistical Disclosure Control English-Finnish Dictionary
 
 *"The purpose of Statistical Disclosure Control (SDC) for microdata is to
@@ -10,7 +10,7 @@ trade-off between the disclosure risk and the utility of the protected
 released data"* [Hundepool 2012].
 
 
-*Tilastojulkisuuden hallinta* (TJH) on tekniikka, jolla pyritään
+*Tilastollinen tietosuoja* on tekniikka, jolla pyritään
 estämään julkaistavan yksikköaineiston luottamuksellisten muuttujien
 liittäminen alkuperäisiin vastaajiin. TJH:n avulla pyritään etsimään
 paras mahdollinen tasapaino julkaisuriskin ja julkaistun, mutta
@@ -26,7 +26,7 @@ taas lähtee ajatuksesta, että aineisto kerätään ensisijaisesti vain
 tilastointia varten ilman, että sitä koskaan käytetään toissijaisiin
 tarkoituksiin tai yhdistetään muihin aineistoihin.
 
-[**Tilastojulkisuuden englanti-suomi -sanasto**](sdc_en-fi.md)
+[**Tilastollisen tietosuojan englanti-suomi -sanasto**](sdc_en-fi.md)
 
 Katso myös: [Aalto-yliopiston tilastotieteen sanasto
 ](https://math.aalto.fi/opetus/sovtoda/sanastot/en2fi.html)
