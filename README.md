@@ -1,32 +1,29 @@
 # Tilastollinen tietosuoja
 
-Tilastollisen tietosuojan englanti-suomi -sanakirja | 
-Statistical Disclosure Control English-Finnish Dictionary
+[**Tilastollisen tietosuojan englanti-suomi -sanakirja <br>
+Statistical Disclosure Control English-Finnish Dictionary**](sdc_en-fi.md)
 
 *"The purpose of Statistical Disclosure Control (SDC) for microdata is to
-prevent confidential information from being linked to specific
-respondents when releasing a microdata file. SDC seeks to optimise the
-trade-off between the disclosure risk and the utility of the protected
-released data"* [Hundepool 2012].
+prevent confidential information from being linked to specific respondents when
+releasing a microdata file. SDC seeks to optimise the trade-off between the
+disclosure risk and the utility of the protected released data"* [Hundepool
+2012].
 
 
-*Tilastollinen tietosuoja* on tekniikka, jolla pyritään
-estämään julkaistavan yksikköaineiston luottamuksellisten muuttujien
-liittäminen alkuperäisiin vastaajiin. TJH:n avulla pyritään etsimään
-paras mahdollinen tasapaino julkaisuriskin ja julkaistun, mutta
-suojeltavana pidettävän aineiston hyödyntämisen väliltä.
-Tilastojulkisuutta käsittevää materiaalia ei juurikaan ole suomeksi.
-Tästä syystä nimikkeistökään ei ole vakiintunut. Nimeä
-**tilastojulkisuus** käytetään jatkossa perinteisen ja vakiintuneen
-**tilastosalaisuus** termin vastinparina.
+*Tilastollinen tietosuoja* (eng. Statistical Disclosure Control) on tekniikka,
+jolla pyritään estämään julkaistavan yksikköaineiston luottamuksellisten
+muuttujien liittäminen alkuperäisiin henkilöihin. Tilastollisen tietosuojan
+avulla pyritään etsimään paras mahdollinen tasapaino julkaisuriskin ja
+julkaistun, mutta suojeltavana pidettävän aineiston hyödyntämisen väliltä.
+Tilastollista tietosuojaa käsittelevää materiaalia ei juurikaan ole suomeksi.
+Tästä syystä nimikkeistökään ei ole täysin vakiintunut. 
 
-Tilastojulkisuus pyrkii julkistamaan aineistoa mahdollisimman paljon
-ilman, että luottamukselliset yksikkötiedot varantuvat. Tilastosalaisuus
-taas lähtee ajatuksesta, että aineisto kerätään ensisijaisesti vain
-tilastointia varten ilman, että sitä koskaan käytetään toissijaisiin
-tarkoituksiin tai yhdistetään muihin aineistoihin.
-
-[**Tilastollisen tietosuojan englanti-suomi -sanasto**](sdc_en-fi.md)
+Tilastollisen tietosuojan tarkoitus on voida julkistaa aineistoa mahdollisimman
+paljon ilman, että luottamukselliset yksikkötiedot varantuvat. Perinteinen
+tilastosalaisuus taas lähtee ajatuksesta, että aineisto kerätään ensisijaisesti
+ja vain tilastointia varten ilman, että sitä koskaan käytetään esimerkiksi
+menetelmien tai palveluiden kehittämiseen tai että kerättyä aineistoa
+yhdistettäisiin muihin aineistoihin.
 
 Katso myös: [Aalto-yliopiston tilastotieteen sanasto
 ](https://math.aalto.fi/opetus/sovtoda/sanastot/en2fi.html)
@@ -36,14 +33,14 @@ Katso myös: [Aalto-yliopiston tilastotieteen sanasto
 
 Muuttujat voidaan jaotellan tunnisteellisuuden mukaan neljään luokkaan:
 
-1. **tunnisteet** (eli yksikäsitteiset ja suorat tunnisteet); identifiers
+1. **tunnisteet** (eli yksikäsitteiset, suorat tunnisteet); identifiers
 2. **osatunnisteet** (tai epäsuorat tunnisteet); quasi-identifiers
 3. **luottamukselliset muuttujat** (tai arkaluonteiset muuttujat);
    confidential or sensitive variables
 4. **luonteeltaan julkiset muuttujat** (tai julkisluonteiset muuttujat);
    (non-confidential variables)
 
-Muuttujan luonne riippuu yhteiskunnasta yleisestä julkisuuskäsityksestä.
+Muuttujan luonne riippuu yhteiskunnasta ja sen yleisestä julkisuuskäsityksestä.
 Tämä on toisinaan kirjattu myös lakiin. [Eurooppalaisen tietosuoja-asetuksen
 ](https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX%3A32016R0679) 
 9. artiklassa todetaan
@@ -120,7 +117,7 @@ tallokeron omistaja, $\mathrm{kuntalaiset}[k]$, arvataan oikein on $r_k
 
 ### Lyhenteitä
 
-**SDC** = Statistical Disclosure Control, tilastojulkisuuden hallinta (TJH)  
+**SDC** = Statistical Disclosure Control, tilastollinen tietosuoja  
 **ISI** = International Statistics Institute, Kansainvälinen tilastoinstituutti  
 **ESS** = European Statistical System, Euroopan tilastojärjestelmä  
 **HIPAA** = Health Insurance Portability and Accountability Act, amerikkalainen
