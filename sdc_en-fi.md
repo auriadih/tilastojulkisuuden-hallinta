@@ -41,7 +41,7 @@ kaikki kattavaan yleistermiin *tieto*.
 | falsified data                               | vääristetty aineisto
 | feasibility interval                         | peittämisväli
 | frequency table                              | lukumäärätaulukko
-| generalization                               | karkeistaminen
+| generalization                               | yleistäminen
 | identifiability                              | tunnistettavuus
 | identifier                                   | (suora) tunniste
 | identity disclosure                          | identiteetin paljastuminen
@@ -108,5 +108,5 @@ kaikki kattavaan yleistermiin *tieto*.
 | k-anonymity                                  | k-anonymiteetti
 | l-diversity                                  | l-diversiteetti
 | t-closeness                                  | t-läheisyys
-| (epsilon) differential privacy               | differentiaalinen yksityisyys
+| (epsilon) differential privacy               | differentiaalinen tietosuoja
 
