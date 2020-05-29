@@ -31,7 +31,7 @@ Katso myös: [Aalto-yliopiston tilastotieteen sanasto
 
 ### Julkistusriskin mittaaminen
 
-Muuttujat voidaan jaotellan tunnisteellisuuden mukaan neljään luokkaan:
+Muuttujat voidaan jaotella tunnisteellisuuden mukaan neljään luokkaan:
 
 1. **tunnisteet** (eli yksikäsitteiset, suorat tunnisteet); identifiers
 2. **osatunnisteet** (tai epäsuorat tunnisteet); quasi-identifiers
